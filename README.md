@@ -2,4 +2,4 @@
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammariyas&layout=compact)](https://github.com/iammariyas/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iammariyas=anuraghazra)](https://github.com/iammariyas/github-readme-stats)
